@@ -1,0 +1,33 @@
+body{
+    background-color: #5c0874;
+    font-family: Arial, sans-serif;
+
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 2em;
+
+}
+p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 1em;
+
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    outline-style: dashed;
+    outline-color: #ffffff;
+    outline-width: 2px;
+}
+h2{
+    color: #ffffff;
+    font-size: 1.5em;
+}
+ul{
+    color: #ffffff;
+    font-size: 1em;
+}
