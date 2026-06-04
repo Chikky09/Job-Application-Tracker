@@ -1,0 +1,53 @@
+body {
+    font-family: Arial;
+    background-color: #e1c11f;
+    color: #070000;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    
+}
+
+input, select, button {
+    padding: 10px;
+}
+
+button {
+    background-color: #461919;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #481e1e;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+}
+
+
+
